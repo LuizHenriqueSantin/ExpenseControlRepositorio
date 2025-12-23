@@ -1,0 +1,503 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA8B2E5-D06E-48D3-9191-243638F2CDC4}|ExpenseControl.Application\\ExpenseControl.Application.csproj|c:\\users\\luizh\\desktop\\expensecontrolrepositorio\\expensecontrol\\expensecontrol.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA8B2E5-D06E-48D3-9191-243638F2CDC4}|ExpenseControl.Application\\ExpenseControl.Application.csproj|solutionrelative:expensecontrol.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA8B2E5-D06E-48D3-9191-243638F2CDC4}|ExpenseControl.Application\\ExpenseControl.Application.csproj|c:\\users\\luizh\\desktop\\expensecontrolrepositorio\\expensecontrol\\expensecontrol.application\\interfaces\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA8B2E5-D06E-48D3-9191-243638F2CDC4}|ExpenseControl.Application\\ExpenseControl.Application.csproj|solutionrelative:expensecontrol.application\\interfaces\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5383DE36-7E84-483A-B147-8BFB69740726}|ExpenseControl.Api\\ExpenseControl.Api.csproj|c:\\users\\luizh\\desktop\\expensecontrolrepositorio\\expensecontrol\\expensecontrol.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5383DE36-7E84-483A-B147-8BFB69740726}|ExpenseControl.Api\\ExpenseControl.Api.csproj|solutionrelative:expensecontrol.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5383DE36-7E84-483A-B147-8BFB69740726}|ExpenseControl.Api\\ExpenseControl.Api.csproj|c:\\users\\luizh\\desktop\\expensecontrolrepositorio\\expensecontrol\\expensecontrol.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5383DE36-7E84-483A-B147-8BFB69740726}|ExpenseControl.Api\\ExpenseControl.Api.csproj|solutionrelative:expensecontrol.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA8B2E5-D06E-48D3-9191-243638F2CDC4}|ExpenseControl.Application\\ExpenseControl.Application.csproj|c:\\users\\luizh\\desktop\\expensecontrolrepositorio\\expensecontrol\\expensecontrol.application\\interfaces\\services\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA8B2E5-D06E-48D3-9191-243638F2CDC4}|ExpenseControl.Application\\ExpenseControl.Application.csproj|solutionrelative:expensecontrol.application\\interfaces\\services\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA8B2E5-D06E-48D3-9191-243638F2CDC4}|ExpenseControl.Application\\ExpenseControl.Application.csproj|c:\\users\\luizh\\desktop\\expensecontrolrepositorio\\expensecontrol\\expensecontrol.application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA8B2E5-D06E-48D3-9191-243638F2CDC4}|ExpenseControl.Application\\ExpenseControl.Application.csproj|solutionrelative:expensecontrol.application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540C884F-7BF9-4A29-9E99-1B8958E9FBF0}|ExpenseControl.Domain\\ExpenseControl.Domain.csproj|c:\\users\\luizh\\desktop\\expensecontrolrepositorio\\expensecontrol\\expensecontrol.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540C884F-7BF9-4A29-9E99-1B8958E9FBF0}|ExpenseControl.Domain\\ExpenseControl.Domain.csproj|solutionrelative:expensecontrol.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540C884F-7BF9-4A29-9E99-1B8958E9FBF0}|ExpenseControl.Domain\\ExpenseControl.Domain.csproj|c:\\users\\luizh\\desktop\\expensecontrolrepositorio\\expensecontrol\\expensecontrol.domain\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540C884F-7BF9-4A29-9E99-1B8958E9FBF0}|ExpenseControl.Domain\\ExpenseControl.Domain.csproj|solutionrelative:expensecontrol.domain\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540C884F-7BF9-4A29-9E99-1B8958E9FBF0}|ExpenseControl.Domain\\ExpenseControl.Domain.csproj|c:\\users\\luizh\\desktop\\expensecontrolrepositorio\\expensecontrol\\expensecontrol.domain\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540C884F-7BF9-4A29-9E99-1B8958E9FBF0}|ExpenseControl.Domain\\ExpenseControl.Domain.csproj|solutionrelative:expensecontrol.domain\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540C884F-7BF9-4A29-9E99-1B8958E9FBF0}|ExpenseControl.Domain\\ExpenseControl.Domain.csproj|c:\\users\\luizh\\desktop\\expensecontrolrepositorio\\expensecontrol\\expensecontrol.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540C884F-7BF9-4A29-9E99-1B8958E9FBF0}|ExpenseControl.Domain\\ExpenseControl.Domain.csproj|solutionrelative:expensecontrol.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA8B2E5-D06E-48D3-9191-243638F2CDC4}|ExpenseControl.Application\\ExpenseControl.Application.csproj|c:\\users\\luizh\\desktop\\expensecontrolrepositorio\\expensecontrol\\expensecontrol.application\\models\\in\\personin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA8B2E5-D06E-48D3-9191-243638F2CDC4}|ExpenseControl.Application\\ExpenseControl.Application.csproj|solutionrelative:expensecontrol.application\\models\\in\\personin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA8B2E5-D06E-48D3-9191-243638F2CDC4}|ExpenseControl.Application\\ExpenseControl.Application.csproj|c:\\users\\luizh\\desktop\\expensecontrolrepositorio\\expensecontrol\\expensecontrol.application\\models\\out\\personout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA8B2E5-D06E-48D3-9191-243638F2CDC4}|ExpenseControl.Application\\ExpenseControl.Application.csproj|solutionrelative:expensecontrol.application\\models\\out\\personout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA8B2E5-D06E-48D3-9191-243638F2CDC4}|ExpenseControl.Application\\ExpenseControl.Application.csproj|c:\\users\\luizh\\desktop\\expensecontrolrepositorio\\expensecontrol\\expensecontrol.application\\models\\out\\categoryout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA8B2E5-D06E-48D3-9191-243638F2CDC4}|ExpenseControl.Application\\ExpenseControl.Application.csproj|solutionrelative:expensecontrol.application\\models\\out\\categoryout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5383DE36-7E84-483A-B147-8BFB69740726}|ExpenseControl.Api\\ExpenseControl.Api.csproj|c:\\users\\luizh\\desktop\\expensecontrolrepositorio\\expensecontrol\\expensecontrol.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5383DE36-7E84-483A-B147-8BFB69740726}|ExpenseControl.Api\\ExpenseControl.Api.csproj|solutionrelative:expensecontrol.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5383DE36-7E84-483A-B147-8BFB69740726}|ExpenseControl.Api\\ExpenseControl.Api.csproj|c:\\users\\luizh\\desktop\\expensecontrolrepositorio\\expensecontrol\\expensecontrol.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5383DE36-7E84-483A-B147-8BFB69740726}|ExpenseControl.Api\\ExpenseControl.Api.csproj|solutionrelative:expensecontrol.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5383DE36-7E84-483A-B147-8BFB69740726}|ExpenseControl.Api\\ExpenseControl.Api.csproj|c:\\users\\luizh\\desktop\\expensecontrolrepositorio\\expensecontrol\\expensecontrol.api\\controllers\\selectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5383DE36-7E84-483A-B147-8BFB69740726}|ExpenseControl.Api\\ExpenseControl.Api.csproj|solutionrelative:expensecontrol.api\\controllers\\selectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA8B2E5-D06E-48D3-9191-243638F2CDC4}|ExpenseControl.Application\\ExpenseControl.Application.csproj|c:\\users\\luizh\\desktop\\expensecontrolrepositorio\\expensecontrol\\expensecontrol.application\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA8B2E5-D06E-48D3-9191-243638F2CDC4}|ExpenseControl.Application\\ExpenseControl.Application.csproj|solutionrelative:expensecontrol.application\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA8B2E5-D06E-48D3-9191-243638F2CDC4}|ExpenseControl.Application\\ExpenseControl.Application.csproj|c:\\users\\luizh\\desktop\\expensecontrolrepositorio\\expensecontrol\\expensecontrol.application\\models\\in\\transactionin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA8B2E5-D06E-48D3-9191-243638F2CDC4}|ExpenseControl.Application\\ExpenseControl.Application.csproj|solutionrelative:expensecontrol.application\\models\\in\\transactionin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA8B2E5-D06E-48D3-9191-243638F2CDC4}|ExpenseControl.Application\\ExpenseControl.Application.csproj|c:\\users\\luizh\\desktop\\expensecontrolrepositorio\\expensecontrol\\expensecontrol.application\\models\\in\\categoryin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA8B2E5-D06E-48D3-9191-243638F2CDC4}|ExpenseControl.Application\\ExpenseControl.Application.csproj|solutionrelative:expensecontrol.application\\models\\in\\categoryin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA8B2E5-D06E-48D3-9191-243638F2CDC4}|ExpenseControl.Application\\ExpenseControl.Application.csproj|c:\\users\\luizh\\desktop\\expensecontrolrepositorio\\expensecontrol\\expensecontrol.application\\models\\out\\transactionout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA8B2E5-D06E-48D3-9191-243638F2CDC4}|ExpenseControl.Application\\ExpenseControl.Application.csproj|solutionrelative:expensecontrol.application\\models\\out\\transactionout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5383DE36-7E84-483A-B147-8BFB69740726}|ExpenseControl.Api\\ExpenseControl.Api.csproj|c:\\users\\luizh\\desktop\\expensecontrolrepositorio\\expensecontrol\\expensecontrol.api\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5383DE36-7E84-483A-B147-8BFB69740726}|ExpenseControl.Api\\ExpenseControl.Api.csproj|solutionrelative:expensecontrol.api\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA8B2E5-D06E-48D3-9191-243638F2CDC4}|ExpenseControl.Application\\ExpenseControl.Application.csproj|c:\\users\\luizh\\desktop\\expensecontrolrepositorio\\expensecontrol\\expensecontrol.application\\helpers\\enumhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA8B2E5-D06E-48D3-9191-243638F2CDC4}|ExpenseControl.Application\\ExpenseControl.Application.csproj|solutionrelative:expensecontrol.application\\helpers\\enumhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF4080E-2702-4E6D-9001-EDD51C92F631}|ExpenseControl.Infrastructure\\ExpenseControl.Infrastructure.csproj|c:\\users\\luizh\\desktop\\expensecontrolrepositorio\\expensecontrol\\expensecontrol.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF4080E-2702-4E6D-9001-EDD51C92F631}|ExpenseControl.Infrastructure\\ExpenseControl.Infrastructure.csproj|solutionrelative:expensecontrol.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF4080E-2702-4E6D-9001-EDD51C92F631}|ExpenseControl.Infrastructure\\ExpenseControl.Infrastructure.csproj|c:\\users\\luizh\\desktop\\expensecontrolrepositorio\\expensecontrol\\expensecontrol.infrastructure\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF4080E-2702-4E6D-9001-EDD51C92F631}|ExpenseControl.Infrastructure\\ExpenseControl.Infrastructure.csproj|solutionrelative:expensecontrol.infrastructure\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 41,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Application\\Interfaces\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "ExpenseControl.Application\\Interfaces\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Application\\Interfaces\\Services\\IUserService.cs",
+              "RelativeToolTip": "ExpenseControl.Application\\Interfaces\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T17:06:52.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Application\\Interfaces\\Services\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "ExpenseControl.Application\\Interfaces\\Services\\IAuthenticationService.cs",
+              "ToolTip": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Application\\Interfaces\\Services\\IAuthenticationService.cs",
+              "RelativeToolTip": "ExpenseControl.Application\\Interfaces\\Services\\IAuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T17:03:51.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Domain\\Entities\\Transaction.cs",
+              "RelativeDocumentMoniker": "ExpenseControl.Domain\\Entities\\Transaction.cs",
+              "ToolTip": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Domain\\Entities\\Transaction.cs",
+              "RelativeToolTip": "ExpenseControl.Domain\\Entities\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T16:24:31.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "ExpenseControl.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "ExpenseControl.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T16:24:28.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Domain\\Entities\\Person.cs",
+              "RelativeDocumentMoniker": "ExpenseControl.Domain\\Entities\\Person.cs",
+              "ToolTip": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Domain\\Entities\\Person.cs",
+              "RelativeToolTip": "ExpenseControl.Domain\\Entities\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T16:20:33.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TransactionIn.cs",
+              "DocumentMoniker": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Application\\Models\\In\\TransactionIn.cs",
+              "RelativeDocumentMoniker": "ExpenseControl.Application\\Models\\In\\TransactionIn.cs",
+              "ToolTip": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Application\\Models\\In\\TransactionIn.cs",
+              "RelativeToolTip": "ExpenseControl.Application\\Models\\In\\TransactionIn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T02:28:33.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TransactionOut.cs",
+              "DocumentMoniker": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Application\\Models\\Out\\TransactionOut.cs",
+              "RelativeDocumentMoniker": "ExpenseControl.Application\\Models\\Out\\TransactionOut.cs",
+              "ToolTip": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Application\\Models\\Out\\TransactionOut.cs",
+              "RelativeToolTip": "ExpenseControl.Application\\Models\\Out\\TransactionOut.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T02:14:46.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ExpenseControl.Api\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ExpenseControl.Api\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T02:10:09.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Api\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "ExpenseControl.Api\\Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Api\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "ExpenseControl.Api\\Controllers\\TransactionController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T02:09:57.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoryIn.cs",
+              "DocumentMoniker": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Application\\Models\\In\\CategoryIn.cs",
+              "RelativeDocumentMoniker": "ExpenseControl.Application\\Models\\In\\CategoryIn.cs",
+              "ToolTip": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Application\\Models\\In\\CategoryIn.cs",
+              "RelativeToolTip": "ExpenseControl.Application\\Models\\In\\CategoryIn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T01:03:03.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PersonOut.cs",
+              "DocumentMoniker": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Application\\Models\\Out\\PersonOut.cs",
+              "RelativeDocumentMoniker": "ExpenseControl.Application\\Models\\Out\\PersonOut.cs",
+              "ToolTip": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Application\\Models\\Out\\PersonOut.cs",
+              "RelativeToolTip": "ExpenseControl.Application\\Models\\Out\\PersonOut.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T00:56:10.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryOut.cs",
+              "DocumentMoniker": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Application\\Models\\Out\\CategoryOut.cs",
+              "RelativeDocumentMoniker": "ExpenseControl.Application\\Models\\Out\\CategoryOut.cs",
+              "ToolTip": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Application\\Models\\Out\\CategoryOut.cs",
+              "RelativeToolTip": "ExpenseControl.Application\\Models\\Out\\CategoryOut.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T00:56:07.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Api\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ExpenseControl.Api\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Api\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ExpenseControl.Api\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T00:54:38.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SelectController.cs",
+              "DocumentMoniker": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Api\\Controllers\\SelectController.cs",
+              "RelativeDocumentMoniker": "ExpenseControl.Api\\Controllers\\SelectController.cs",
+              "ToolTip": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Api\\Controllers\\SelectController.cs",
+              "RelativeToolTip": "ExpenseControl.Api\\Controllers\\SelectController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T00:38:22.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ExpenseControl.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ExpenseControl.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T20:17:01.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "ExpenseControl.Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "ExpenseControl.Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T20:16:46.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EnumHelper.cs",
+              "DocumentMoniker": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Application\\Helpers\\EnumHelper.cs",
+              "RelativeDocumentMoniker": "ExpenseControl.Application\\Helpers\\EnumHelper.cs",
+              "ToolTip": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Application\\Helpers\\EnumHelper.cs",
+              "RelativeToolTip": "ExpenseControl.Application\\Helpers\\EnumHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T20:16:24.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Application\\Services\\TransactionService.cs",
+              "RelativeDocumentMoniker": "ExpenseControl.Application\\Services\\TransactionService.cs",
+              "ToolTip": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Application\\Services\\TransactionService.cs",
+              "RelativeToolTip": "ExpenseControl.Application\\Services\\TransactionService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T20:15:54.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Infrastructure\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "ExpenseControl.Infrastructure\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Infrastructure\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "ExpenseControl.Infrastructure\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T20:15:44.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Application\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "ExpenseControl.Application\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Application\\Services\\CategoryService.cs",
+              "RelativeToolTip": "ExpenseControl.Application\\Services\\CategoryService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAiwFoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T20:15:13.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PersonIn.cs",
+              "DocumentMoniker": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Application\\Models\\In\\PersonIn.cs",
+              "RelativeDocumentMoniker": "ExpenseControl.Application\\Models\\In\\PersonIn.cs",
+              "ToolTip": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Application\\Models\\In\\PersonIn.cs",
+              "RelativeToolTip": "ExpenseControl.Application\\Models\\In\\PersonIn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T20:12:59.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ExpenseControl.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Api\\Program.cs",
+              "RelativeToolTip": "ExpenseControl.Api\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADgvxQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T20:12:06.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "ExpenseControl.Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "ExpenseControl.Application\\Services\\UserService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T20:10:52.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ExpenseControl.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\luizh\\Desktop\\ExpenseControlRepositorio\\ExpenseControl\\ExpenseControl.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ExpenseControl.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T20:10:37.104Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

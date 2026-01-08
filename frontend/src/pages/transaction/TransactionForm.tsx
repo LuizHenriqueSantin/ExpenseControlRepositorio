@@ -48,6 +48,8 @@ export function TransactionForm({ isOpen, onClose, onSave, id }: Props) {
       if (id && isOpen) {
         const data = await transactionService.getById(id);
         setForm(data);
+      } else if (isOpen) {
+        setForm(initialForm);
       }
 
       const optionsType = await selectService.getTransactionTypes();

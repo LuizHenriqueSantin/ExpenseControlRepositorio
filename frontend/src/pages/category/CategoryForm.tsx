@@ -38,6 +38,8 @@ export function CategoryForm({ isOpen, onClose, onSave, id }: Props) {
       if (id && isOpen) {
         const data = await categoryService.getById(id);
         setForm(data);
+      } else if (isOpen) {
+        setForm(initialForm);
       }
 
       const options = await selectService.getPurposes();

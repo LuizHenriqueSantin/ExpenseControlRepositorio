@@ -70,6 +70,7 @@ export function Person() {
 
   function onCloseForm() {
     setFormOpen(false);
+    setIdEdit("");
   }
 
   async function onSave(data: PersonFormType) {
@@ -78,6 +79,10 @@ export function Person() {
     } else {
       await personService.create(data);
     }
+    const newData = await personService.getAll();
+    setGridData(newData);
+    setFormOpen(false);
+    setIdEdit("");
   }
 
   useEffect(() => {

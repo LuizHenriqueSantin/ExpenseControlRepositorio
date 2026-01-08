@@ -75,6 +75,7 @@ export function Category() {
 
   function onCloseForm() {
     setFormOpen(false);
+    setIdEdit("");
   }
 
   async function onSave(data: CategoryFormType) {
@@ -83,6 +84,10 @@ export function Category() {
     } else {
       await categoryService.create(data);
     }
+    const newData = await categoryService.getAll();
+    setGridData(newData);
+    setFormOpen(false);
+    setIdEdit("");
   }
 
   useEffect(() => {

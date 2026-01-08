@@ -81,6 +81,7 @@ export function Transaction() {
 
   function onCloseForm() {
     setFormOpen(false);
+    setIdEdit("");
   }
 
   async function onSave(data: TransactionFormType) {
@@ -89,6 +90,10 @@ export function Transaction() {
     } else {
       await transactionService.create(data);
     }
+    const newData = await transactionService.getAll();
+    setGridData(newData);
+    setFormOpen(false);
+    setIdEdit("");
   }
 
   useEffect(() => {
